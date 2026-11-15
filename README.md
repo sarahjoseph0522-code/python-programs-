@@ -6,13 +6,13 @@ This repository contains seven Python practical experiments from the **Explorati
 
 | No. | Experiment | Python file |
 |---:|---|---|
-| 1 | Student Marks, Percentage, Grade and Academic Performance | [01_student_marks_grade.py](01_student_marks_grade.py) |
-| 2 | Electricity Billing System Using Conditional Statements and Loops | [02_electricity_billing.py](02_electricity_billing.py) |
-| 3 | Menu-Driven Student Information Management | [03_student_information_system.py](03_student_information_system.py) |
-| 4 | Student Record Management Using Lists, Tuples, Dictionaries, Files and CSV | [04_student_records_csv.py](04_student_records_csv.py) |
-| 5 | IoT Sensor Data Analysis Using NumPy | [05_iot_sensor_numpy.py](05_iot_sensor_numpy.py) |
-| 6 | Analysis of Student Dataset Using Pandas Series and DataFrame | [06_student_dataset_pandas.py](06_student_dataset_pandas.py) |
-| 7 | Data Cleaning and Exploratory Data Analysis Using Pandas | [07_data_cleaning_eda_pandas.py](07_data_cleaning_eda_pandas.py) |
+| 1 | Student Marks, Percentage, Grade and Academic Performance | [exp-1.py](exp-1.py) |
+| 2 | Electricity Billing System Using Conditional Statements and Loops | [exp-2.py](exp-2.py) |
+| 3 | Menu-Driven Student Information Management | [exp-3.py](exp-3.py) |
+| 4 | Student Record Management Using Lists, Tuples, Dictionaries, Files and CSV | [exp-4.py](exp-4.py) |
+| 5 | IoT Sensor Data Analysis Using NumPy | [exp-5.py](exp-5.py) |
+| 6 | Analysis of Student Dataset Using Pandas Series and DataFrame | [exp-6.py](exp-6.py) |
+| 7 | Data Cleaning and Exploratory Data Analysis Using Pandas | [exp-7.py](exp-7.py) |
 
 ## Requirements
 
@@ -31,7 +31,7 @@ python -m pip install numpy pandas
 Open a terminal in the repository folder and run the required file. For example:
 
 ```bash
-python 01_student_marks_grade.py
+python exp-1.py
 ```
 
 Replace the filename with the experiment you want to run.
